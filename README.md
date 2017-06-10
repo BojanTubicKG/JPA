@@ -1,2 +1,2 @@
 # JPA
-JPA - JDBC - MVC - Swing - NeatBenas
+JPA - JDBC - MVC - Swing - NetBenas
